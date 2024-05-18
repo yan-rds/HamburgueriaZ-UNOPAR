@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="TITLE">FAÇA SEU PEDIDO!</string>
+    <string name="HINT_NAME">Nome</string>
+    <string name="APP_NAME">HamburgueriaZ</string>
+    <string name="DECREMENT">-</string>
+    <string name="QUANTITY">0</string>
+    <string name="INCREMENT">+</string>
+    <string name="ORDER_OVERVIEW">RESUMO DO PEDIDO</string>
+    <string name="ORDER_AMOUNT">R$ 0</string>
+    <string name="MAKE_ORDER">FAZER PEDIDO</string>
+</resources>
